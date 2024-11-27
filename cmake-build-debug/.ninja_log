@@ -1,0 +1,18 @@
+# ninja log v6
+2	916	7544453218531404	CMakeFiles/untitled89.dir/main.cpp.obj	c13e9e7428733009
+10	937	7544453218600282	CMakeFiles/untitled89.dir/Order.cpp.obj	160313af46cb2f12
+15	945	7544453218661895	CMakeFiles/untitled89.dir/MainMenu.cpp.obj	23809296e84acf49
+920	1777	7544453227711366	CMakeFiles/untitled89.dir/RestaurantSystem.cpp.obj	1cf9f578e35e493
+937	1822	7544453227884253	CMakeFiles/untitled89.dir/OrderQueue.cpp.obj	cb77905ea788b462
+1822	2091	7544453236732099	untitled89.exe	4788fb9a63f59a38
+14	919	7544456236320138	CMakeFiles/untitled89.dir/MainMenu.cpp.obj	23809296e84acf49
+22	857	7544457321280134	CMakeFiles/untitled89.dir/MainMenu.cpp.obj	23809296e84acf49
+858	1061	7544457329649175	untitled89.exe	4788fb9a63f59a38
+6	658	7544459254554623	CMakeFiles/untitled89.dir/MainMenu.cpp.obj	23809296e84acf49
+659	911	7544459261089284	untitled89.exe	4788fb9a63f59a38
+29	927	7544479576059987	CMakeFiles/untitled89.dir/Order.cpp.obj	160313af46cb2f12
+19	1009	7544479575962630	CMakeFiles/untitled89.dir/main.cpp.obj	c13e9e7428733009
+39	1058	7544479576164924	CMakeFiles/untitled89.dir/MainMenu.cpp.obj	23809296e84acf49
+928	1670	7544479585051699	CMakeFiles/untitled89.dir/RestaurantSystem.cpp.obj	1cf9f578e35e493
+1009	1857	7544479585865051	CMakeFiles/untitled89.dir/OrderQueue.cpp.obj	cb77905ea788b462
+1857	2426	7544479594345334	untitled89.exe	4788fb9a63f59a38

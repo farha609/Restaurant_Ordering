@@ -1,0 +1,3 @@
+C:/untitled89/cmake-build-debug/CMakeFiles/untitled89.dir
+C:/untitled89/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/untitled89/cmake-build-debug/CMakeFiles/rebuild_cache.dir
